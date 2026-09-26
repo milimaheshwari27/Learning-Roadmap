@@ -1,0 +1,6 @@
+{
+  "name": "Learn Anything",
+  "description": "Personalized, adaptive day-by-day study roadmaps powered by Gemini that adapt to your understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
